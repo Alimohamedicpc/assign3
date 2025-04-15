@@ -4,6 +4,11 @@ import 'package:assign3/tasks/3.dart';
 import 'package:assign3/tasks/4.dart';
 import 'package:assign3/tasks/5.dart';
 import 'package:assign3/tasks/6.dart';
+import 'package:assign3/tasks/7.dart';
+import 'package:assign3/tasks/8.dart';
+import 'package:assign3/tasks/9_1.dart';
+import 'package:assign3/tasks/9_2.dart';
+import 'package:assign3/tasks/9_3.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -99,6 +104,11 @@ class _assignmentState extends State<assignment> {
             task4(),
             task5(),
             task6(),
+            task7(),
+            task8(),
+            task9_1(),
+            task9_2(),
+            task9_3(),
           ],
         ),
       ),
